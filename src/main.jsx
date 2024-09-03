@@ -5,7 +5,7 @@ import "./index.css";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <div className="bg-[#242424]  h-screen">
+    <div className="bg-[#242424]  min-h-screen ">
       <App />
     </div>
   </StrictMode>
